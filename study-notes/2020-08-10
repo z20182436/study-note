@@ -1,0 +1,13 @@
+today：
+1.  学习搭建GitHub项目，实现本地编辑，然后通过git推送到GitHub上面。
+
+遇到问题：
+    1. 怎么找到GitHub仓库地址？
+        解决方案：在your repositories 创建仓库；然后code里面查看仓库地址。
+
+    2. 怎么建立本地代码和GitHub仓库的链接？
+        解决方案：https://www.cnblogs.com/sikongji-yeshan/p/10495492.html
+        git remote add origin git@github.com:z20182436/study-note.git
+        git remote add :添加远程 ; origin可以自定义 ; 后面的是远程仓库地址
+
+    3. 推送代码：git add ； git commit ； git push
